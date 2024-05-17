@@ -1,6 +1,7 @@
 ## Resort Management Project ##  
 
 <img src="https://github.com/deepparekh02/resort-database-management/assets/65657471/c91e8ad8-5dc9-422f-ab4c-8a3b295dec9c" width=300>
+  
 The project runs a management system for resorts through which the resort manager can look through guests and their bookings as well as resort staff and other administrative tasks. The project also achieves the goal of allowing our management to manage wages through aggregation and look at the resort rooms. At the same time, the guests may also have children or other minor guests with them. This allows to create restrictions for minors by checking for alcohol availability. The resort also has facilities that guests may use which is tracked by the Facility IDs and Guest IDs. 
 
 **Tech Stack:** Oracle, PHP, HTML, SQL
